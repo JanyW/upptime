@@ -22,19 +22,19 @@
     "url": "https://c2c.huobi.com",
     "icon": "https://favicons.githubusercontent.com/c2c.huobi.com",
     "slug": "huobi-c2c",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 425,
-    "timeDay": 295,
-    "timeWeek": 534,
-    "timeMonth": 526,
+    "timeDay": 331,
+    "timeWeek": 513,
+    "timeMonth": 521,
     "timeYear": 425,
     "dailyMinutesDown": {
-      "2021-07-24": 0
+      "2021-07-24": 17
     }
   },
   {
