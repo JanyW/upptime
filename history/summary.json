@@ -42,10 +42,10 @@
     "url": "https://otc-api.huobi.com/v1/data/config-list?type=time",
     "icon": "https://favicons.githubusercontent.com/otc-api.huobi.com",
     "slug": "huobi-c2c-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 378,
@@ -54,6 +54,7 @@
     "timeMonth": 385,
     "timeYear": 378,
     "dailyMinutesDown": {
+      "2021-07-30": 2,
       "2021-06-18": 45,
       "2020-12-28": 393
     }
@@ -63,9 +64,9 @@
     "url": "https://www.okex.com",
     "icon": "https://favicons.githubusercontent.com/www.okex.com",
     "slug": "okex",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -74,7 +75,9 @@
     "timeWeek": 317,
     "timeMonth": 455,
     "timeYear": 412,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-30": 0
+    }
   },
   {
     "name": "binance",
