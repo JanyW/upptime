@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 369,
-    "timeDay": 307,
-    "timeWeek": 441,
-    "timeMonth": 422,
+    "timeDay": 358,
+    "timeWeek": 459,
+    "timeMonth": 420,
     "timeYear": 369,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 423,
-    "timeDay": 271,
-    "timeWeek": 364,
-    "timeMonth": 496,
-    "timeYear": 423,
+    "time": 428,
+    "timeDay": 1324,
+    "timeWeek": 492,
+    "timeMonth": 521,
+    "timeYear": 428,
     "dailyMinutesDown": {
       "2021-07-24": 17
     }
@@ -43,18 +43,17 @@
     "icon": "https://favicons.githubusercontent.com/otc-api.huobi.com",
     "slug": "huobi-c2c-api",
     "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.85%",
+    "uptime": "99.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.86%",
     "time": 377,
-    "timeDay": 248,
-    "timeWeek": 259,
-    "timeMonth": 381,
+    "timeDay": 283,
+    "timeWeek": 265,
+    "timeMonth": 378,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2021-07-30": 9,
       "2021-06-18": 45,
       "2020-12-28": 393
     }
@@ -66,18 +65,16 @@
     "slug": "okex",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 412,
-    "timeDay": 415,
-    "timeWeek": 346,
-    "timeMonth": 458,
+    "timeDay": 449,
+    "timeWeek": 347,
+    "timeMonth": 455,
     "timeYear": 412,
-    "dailyMinutesDown": {
-      "2021-07-30": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "binance",
@@ -90,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 777,
-    "timeDay": 1434,
-    "timeWeek": 1084,
-    "timeMonth": 732,
-    "timeYear": 777,
+    "time": 775,
+    "timeDay": 284,
+    "timeWeek": 1089,
+    "timeMonth": 718,
+    "timeYear": 775,
     "dailyMinutesDown": {
       "2021-02-08": 16
     }
