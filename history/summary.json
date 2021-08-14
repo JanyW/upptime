@@ -63,18 +63,20 @@
     "url": "https://www.okex.com",
     "icon": "https://favicons.githubusercontent.com/www.okex.com",
     "slug": "okex",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 406,
-    "timeDay": 312,
-    "timeWeek": 333,
-    "timeMonth": 321,
+    "timeDay": 370,
+    "timeWeek": 344,
+    "timeMonth": 325,
     "timeYear": 406,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-14": 0
+    }
   },
   {
     "name": "binance",
